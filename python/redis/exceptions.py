@@ -1,0 +1,2 @@
+class RespException(Exception):
+    pass
